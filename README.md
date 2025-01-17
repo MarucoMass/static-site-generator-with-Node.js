@@ -1,1 +1,1 @@
-# static-site-generator-withe-node.js
+# static-site-generator-with-Node.js
